@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Sanusi Mofopefoluwa Treasure
 - 👀 I’m interested in Learning Python
 - 🌱 I’m currently learning Python and HTML 
-- 💞️ I’m looking to collaborate on any project involvin those two languages 
+- 💞️ I’m looking to collaborate on any project involving those two languages 
 - 📫 You can call me on +2348146855225
-- 😄 Pronouns: ...
+- 😄 Pronouns: Python
 - ⚡ Fun fact: Pthon is a simple yet poisonous language
 
 <!---
